@@ -29,6 +29,6 @@
     <a href="https://github.com/keygenqt/BackupZ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=BackupZ" width="32%"/></a>
     <a href="https://github.com/keygenqt/Changeln"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=Changeln" width="32%"/></a>
     <a href="https://github.com/keygenqt/Screener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=Screener" width="32%"/></a>
-    <a href="https://github.com/keygenqt/ScreenerQt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=ScreenerQt" width="32%"/></a>
+    <a href="https://github.com/keygenqt/ScreenerQt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=ScreenerQt&v=1" width="32%"/></a>
     <a href="https://github.com/keygenqt/AssistantQt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=AssistantQt" width="32%"/></a>
 </p>
