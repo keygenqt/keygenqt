@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keygenqt&theme=dark&layout=compact" width="41%"/>
 </p>
 
-## Jetpack Compose demo apps
+## [Jetpack Compose](https://developer.android.com/jetpack/compose) demo apps
 
 <p align="center">
     <a href="https://github.com/keygenqt/android-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=android-GitHubViewer" width="32%"/></a>
@@ -14,7 +14,7 @@
     <a href="https://github.com/keygenqt/android-DemoCompose"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=android-DemoCompose" width="32%"/></a>
 </p>
 
-## Jetpack Compose libraries
+## [Jetpack Compose](https://developer.android.com/jetpack/compose) libraries
 
 <p align="center">
     <a href="https://github.com/keygenqt/compose-forms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-forms" width="32%"/></a>
