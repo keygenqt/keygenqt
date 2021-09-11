@@ -12,5 +12,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-forms" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=surf-accompanist" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-modifier-ext" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=ompose-routing" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-routing" width="48%"/>
 </p>
