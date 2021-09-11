@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keygenqt&theme=dark&layout=compact" width="41%"/>
 </p>
 
-## Snap store apps
+## [Snap Store](https://snapcraft.io/snap-store) apps
 
 <p align="center">
     <a href="https://github.com/keygenqt/Deployer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=Deployer" width="32%"/></a>
