@@ -1,3 +1,7 @@
-[![Vitaliy Zarubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=keygenqt&hide=prs&show_icons=true&theme=dracula)](https://github.com/keygenqt?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keygenqt&theme=dracula)](https://github.com/keygenqt?tab=repositories)
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=keygenqt&theme=darcula)](https://github.com/keygenqt?tab=repositories)
+### Welcome!
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=keygenqt&hide=prs&show_icons=true&theme=dracula" width="99%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keygenqt&theme=darcula" width="99%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=keygenqt&hide=prs&show_icons=true&theme=dracula" width="99%"/>
+</p>>
