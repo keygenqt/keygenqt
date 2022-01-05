@@ -20,8 +20,8 @@
     <a href="https://github.com/keygenqt/compose-forms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-forms" width="32%"/></a>
     <a href="https://github.com/keygenqt/surf-accompanist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=surf-accompanist" width="32%"/></a>
     <a href="https://github.com/keygenqt/compose-modifier-ext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-modifier-ext" width="32%"/></a>
-    <a href="https://github.com/keygenqt/compose-requests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-requests" width="48%"/></a>
-    <a href="https://github.com/keygenqt/compose-routing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-routing" width="48%"/></a>
+    <a href="https://github.com/keygenqt/compose-requests"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-requests" width="32%"/></a>
+    <a href="https://github.com/keygenqt/compose-routing?v=1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-routing" width="32%"/></a>
 </p>
 
 ## [Snap Store](https://snapcraft.io/snap-store) apps
