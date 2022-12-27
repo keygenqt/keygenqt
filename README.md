@@ -7,9 +7,10 @@
 
 ## Kotlin Multiplatform
 
-<p style="padding-left: 18px">
-    <a href="https://github.com/keygenqt/km-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=km-shop" width="32.5%"/></a>
-    <a href="https://github.com/keygenqt/kmm-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=kmm-GitHubViewer" width="32.5%"/></a>
+<p align="center">
+    <a href="https://github.com/keygenqt/km-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=km-shop" width="32%"/></a>
+    <a href="https://github.com/keygenqt/kmm-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=kmm-GitHubViewer" width="32%"/></a>
+    <div width="32%"></div>
 </p>
 
 ## Jetpack Compose
