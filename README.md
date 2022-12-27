@@ -5,23 +5,22 @@
     <a href="https://github.com/keygenqt?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keygenqt&theme=dark&layout=compact" width="41%"/></a>
 </p>
 
-## [Jetpack Compose](https://developer.android.com/jetpack/compose) demo apps
+## Kotlin Multiplatform
+
+<p style="padding-left: 18px">
+    <a href="https://github.com/keygenqt/km-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=km-shop" width="32.5%"/></a>
+    <a href="https://github.com/keygenqt/kmm-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=kmm-GitHubViewer" width="32.5%"/></a>
+</p>
+
+## Jetpack Compose
 
 <p align="center">
     <a href="https://github.com/keygenqt/android-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=android-GitHubViewer" width="32%"/></a>
-    <a href="https://github.com/keygenqt/kmm-GitHubViewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=kmm-GitHubViewer" width="32%"/></a>
     <a href="https://github.com/keygenqt/android-DemoCompose"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=android-DemoCompose" width="32%"/></a>
-</p>
-
-## [Jetpack Compose](https://developer.android.com/jetpack/compose) libraries
-
-<p align="center">
     <a href="https://github.com/keygenqt/compose-forms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-forms" width="32%"/></a>
-    <a href="https://github.com/keygenqt/surf-accompanist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=surf-accompanist" width="32%"/></a>
-    <a href="https://github.com/keygenqt/compose-modifier-ext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=compose-modifier-ext" width="32%"/></a>
 </p>
 
-## [Snap Store](https://snapcraft.io/snap-store) apps
+## Snap Store
 
 <p align="center">
     <a href="https://github.com/keygenqt/Deployer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keygenqt&repo=Deployer&v=1" width="32%"/></a>
