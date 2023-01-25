@@ -1,1 +1,1 @@
-![Github Stats](https://api.keygenqt.com/api/ps/file/github-stats.png)
+[![Github Stats](https://api.keygenqt.com/api/ps/file/github-stats.png)](https://keygenqt.com/)
