@@ -1,3 +1,3 @@
-<a href="https://keygenqt.com/">
-    <img src="https://raw.githubusercontent.com/keygenqt/keygenqt/main/data/gif_08_05_25.gif" width="100%"/>
+<a href="https://gitcode.com/keygenqt_vz">
+    <img src="https://raw.githubusercontent.com/keygenqt/keygenqt/main/data/2025.jpg" width="100%"/>
 </a>
