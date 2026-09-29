@@ -59,7 +59,7 @@
   <text x="70" y="202" class="code">repos: <tspan class="num">133</tspan>,</text>
   <text x="70" y="230" class="code">stars: <tspan class="num">244</tspan>,</text>
   <text x="70" y="258" class="code">followers: <tspan class="num">93</tspan>,</text>
-  <text x="40" y="286" class="code">}<tspan class="cursor" fill="#c9d1d9" dy="-1.5" dx="2">▌</tspan></text>
+  <text x="40" y="286" class="code">}<tspan class="cursor" fill="#c9d1d9" dy="-1.8" dx="2">▌</tspan></text>
 
   <!-- languages -->
   <text x="630" y="88" class="cm">// Tech stack</text>
