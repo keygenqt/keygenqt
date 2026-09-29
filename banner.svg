@@ -49,18 +49,17 @@
   <line x1="600" y1="80" x2="600" y2="290" stroke="#30363d" />
 
   <!-- code -->
-  <text x="40" y="100" class="cm">// Open Mobile Platform · Volgodonsk</text>
-  <text x="40" y="132" class="code"><tspan class="kw">struct</tspan> <tspan class="ty">Developer</tspan>
+  <text x="40" y="88" class="cm">// Open Mobile Platform · Volgodonsk</text>
+  <text x="40" y="118" class="code"><tspan class="kw">struct</tspan> <tspan class="ty">Developer</tspan>
     {</text>
-  <text x="70" y="162" class="code">name: <tspan class="str">"Vitaliy Zarubin"</tspan>,</text>
-  <text x="70" y="192" class="code">role: <tspan class="str">"Multiplatform Developer"</tspan>,</text>
+  <text x="70" y="146" class="code">name: <tspan class="str">"Vitaliy Zarubin"</tspan>,</text>
+  <text x="70" y="174" class="code">role: <tspan class="str">"Multiplatform Developer"</tspan>,</text>
 
   <!-- EDIT: stats -->
-  <text x="70" y="222" class="code">repos: <tspan class="num">133</tspan>,</text>
-  <text x="70" y="252" class="code">stars: <tspan class="num">244</tspan>,</text>
-  <text x="70" y="282" class="code">followers: <tspan class="num">93</tspan>,</text>
-  <text x="40" y="306" class="code" opacity="0">}</text>
-  <text x="330" y="282" class="code cursor" fill="#c9d1d9">▌</text>
+  <text x="70" y="202" class="code">repos: <tspan class="num">133</tspan>,</text>
+  <text x="70" y="230" class="code">stars: <tspan class="num">244</tspan>,</text>
+  <text x="70" y="258" class="code">followers: <tspan class="num">93</tspan>,</text>
+  <text x="40" y="286" class="code">}<tspan class="cursor" fill="#c9d1d9" dy="-1.5" dx="2">▌</tspan></text>
 
   <!-- languages -->
   <text x="630" y="100" class="cm">// Tech stack</text>
